@@ -25,5 +25,5 @@ const partnerSchema = new Schema({
 
 const Partner = mongoose.model('Partner', partnerSchema);
 
-module.exports = Campsite;
+module.exports = Partner;
 
